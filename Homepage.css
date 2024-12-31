@@ -20,7 +20,8 @@ body {
 }
 
 .header img {
-    max-width: 100px;
+    max-width: 600px;
+    margin-right: 600px;
 }
 
 .header h1 {
@@ -42,12 +43,12 @@ body {
 
 .section h2 {
     color: #333;
-    font-size: 18px;
+    font-size: 25px;
     margin: 10px 0;
 }
 
 .section p {
-    font-size: 14px;
+    font-size: 20px;
     color: #555;
     margin: 10px 0;
 }
@@ -82,7 +83,7 @@ body {
 }
 
 .footer a img {
-    width: 30px;
+    width: 50px;
     margin: 0 5px;
     transition: transform 0.2s;
 }
@@ -96,13 +97,17 @@ body {
 }
 
 .contact h2 {
-    font-size: 18px;
+    font-size: 22px;
     color: #d32f2f;
     margin-bottom: 10px;
 }
 
+.contact h3 {
+    font-size: 20px;
+}
+
 .contact p, .contact ul {
-    font-size: 14px;
+    font-size: 15px;
     color: #555;
     margin: 5px 0;
 }
@@ -146,13 +151,13 @@ body {
 }
 
 .section .content .text h2 {
-    font-size: 18px;
+    font-size: 20px;
     color: #333;
     margin-bottom: 10px;
 }
 
 .section .content .text p {
-    font-size: 14px;
+    font-size: 15px;
     color: #555;
     margin-bottom: 10px;
 }
