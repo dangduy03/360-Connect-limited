@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-preview>LASTEST NEWS - 360Connect</mj-preview>
+    <mj-preview>LATEST NEWS - 360Connect</mj-preview>
     <mj-style inline="inline">
       .btn {
         background-color: #d32f2f;
@@ -12,15 +12,6 @@
         font-weight: bold;
         display: inline-block;
       }
-      .image-section {
-      padding: 0;
-      margin: 0;
-      }
-      .left-aligned-image img {
-      margin: 0;
-      padding: 0;
-      display: block;
-      }
     </mj-style>
   </mj-head>
   <mj-body background-color="#f9f9f9">
@@ -31,42 +22,44 @@
           alt="Logo"
           width="200px"
           align="left"
+          padding="0"
         />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#fff" padding="0px">
+    <mj-section background-color="#fff" padding="15px 0 15px 0">
       <mj-column>
         <mj-image
           src="https://dangduy03.github.io/image-limited/heard.jpg"
           alt="Page"
-          align="left"
+          padding="0"
         />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#a3a3a3" border-radius="10px" text-align="center" padding="15px" >
-      <mj-column>
-        <mj-text css-class="black-bar" align="center" font-size="25px" color="white" font-weight="bold" padding="2px 0">
-        LASTEST NEWS</mj-text>
-      </mj-column>
-    </mj-section>
+    <mj-section background-color="#a3a3a3"  text-align="center" padding="15px 0" >
+  <mj-column >
+    <mj-text css-class="black-bar" align="center" font-size="25px" color="white" font-weight="bold" padding="2px 0">
+      LATEST NEWS
+    </mj-text>
+  </mj-column>
+</mj-section>
 
-    <mj-section background-color="#fff" padding="0" css-class="image-section">
+    <mj-section background-color="#fff" padding="15px 0 0 0">
       <mj-column width="50%" padding="0" >
         <mj-image
           src="https://dangduy03.github.io/image-limited/danh_sach_nghe.jpg"
           alt="Danh sách ngành nghề"
-          css-class="left-aligned-image"
+          padding="0"
         />
       </mj-column>
       
       <mj-column padding="0 15px" >
-        <mj-text font-size="20px" color="#333" font-weight="bold" align="justify" padding="10px 0 5px 0">
-          Danh sách ngành nghề "khát" nhân lực tại Úc
+        <mj-text font-size="20px" color="#333" font-weight="bold" align="justify" padding="0px 0 5px 0">
+          Danh sách các ngành nghề "khát" nhân lực tại Úc
         </mj-text>
         <mj-text font-size="16px" color="#555" align="justify" padding="0px 0 5px 0">
-          Đây là những ngành nghề được dự báo khát nhân lực, mức lương cao trong 5 năm tới, được các doanh nghiệp săn đón ngay sau khi tốt nghiệp!
+          Đây là những ngành nghề được dự báo sẽ khát nhân lực với mức lương cao trong vòng 5 năm tới, được các doanh nghiệp săn đón ngay sau khi tốt nghiệp!
         </mj-text>
         <mj-button href="https://360connect.edu.vn/danh-sach-nganh-nghe-de-xin-viec-tai-uc/" background-color="#d32f2f" font-weight="bold"  border-radius="10px" width="150px">
           Xem thêm
@@ -74,16 +67,17 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#fff" padding="0">
+    <mj-section background-color="#fff" padding="15px 0 0 0">
       <mj-column width="50%" padding="0">
         <mj-image
           src="https://dangduy03.github.io/image-limited/noi_dung.jpg"
           alt="Học bổng"
+          padding="0"
         />
       </mj-column>
 
       <mj-column padding="0 15px">
-        <mj-text font-size="20px" color="#333" font-weight="bold" align="justify" padding="10px 0 5px 0">
+        <mj-text font-size="20px" color="#333" font-weight="bold" align="justify" padding="0px 0 5px 0">
           Thời hạn đăng ký học bổng của TOP 15 trường đại học hàng đầu tại Úc
         </mj-text>
         <mj-text font-size="16px" color="#555" align="justify" padding="0px 0 5px 0">
@@ -95,16 +89,17 @@
       </mj-column>
     </mj-section>
     
-   <mj-section background-color="#fff" padding="0">
+   <mj-section background-color="#fff" padding="15px 0 0 0">
   <mj-column width="50%">
     <mj-image
       src="https://dangduy03.github.io/image-limited/pay.jpg"
       alt="Visa Úc"
+      padding="0"
     />
   </mj-column>
 
   <mj-column padding="0 15px">
-    <mj-text font-size="20px" color="#333" font-weight="bold" align="justify" padding="10px 0 5px 0">
+    <mj-text font-size="20px" color="#333" font-weight="bold" align="justify" padding="0px 0 5px 0">
       Chỉ còn 1 tháng trước khi áp dụng mức phí mới cho Visa 485
     </mj-text>
     <mj-text font-size="16px" color="#555" align="justify" padding="0px 0 5px 0">
@@ -116,29 +111,29 @@
   </mj-column>
 </mj-section>
 
-<mj-section background-color="#fff" padding="0">
+<mj-section background-color="#fff" padding="15px 0 15px 0">
   <mj-column width="50%">
     <mj-image
       src="https://dangduy03.github.io/image-limited/chuc_tet.jpg"
       alt="Lịch nghỉ Tết"
+      padding="0"
     />
   </mj-column>
 
   <mj-column padding="0 15px">
-    <mj-text font-size="20px" color="#333" font-weight="bold" align="justify" padding="10px 0 5px 0">
+    <mj-text font-size="20px" color="#333" font-weight="bold" align="justify" padding="0px 0 5px 0">
       Lịch nghỉ Tết Ất Tỵ
     </mj-text>
     <mj-text font-size="16px" color="#555" align="justify" padding="0px 0 5px 0">
-      Trân trọng gửi tới Quý khách hàng lịch nghỉ tết Ất Tỵ. Thời gian: từ ngày 25/1 đến ngày 2/2/2025 (ngày 26 tháng Chạp năm Giáp Thìn đến mùng 5 tháng Giêng năm Ất Tỵ).
+      Trân trọng gửi tới Quý khách hàng lịch nghỉ tết Ất Tỵ. Thời gian: từ ngày 25/01 đến ngày 02/02/2025 (ngày 26 tháng Chạp năm Giáp Thìn đến mùng 5 tháng Giêng năm Ất Tỵ).
     </mj-text>
     <mj-text font-size="16px" color="#555" align="justify" padding="0px 0 5px 0">
-      Trong thời gian nghỉ lễ, nếu quý khách hàng có bất kỳ thắc mắc nào có thể liên hệ qua số điện thoại 0912399360 hoặc tài khoản email của 360 Connect
-      <a href="mailto:Admin.hn@360connect.edu.vn" style="color:bule; text-decoration:none">Admin.hn@360connect.edu.vn</a>
+      Trong thời gian nghỉ lễ, nếu quý khách hàng có bất kỳ thắc mắc nào có thể liên hệ qua số điện thoại 0912 399 360 hoặc tài khoản zalo Connect Chắp Cánh Ước Mơ Du Học
     </mj-text>
   </mj-column>
 </mj-section>
 
-<mj-section background-color="#a3a3a3" border-radius="10px" text-align="center" padding="15px">
+<mj-section background-color="#a3a3a3"  text-align="center" padding="15px 0">
   <mj-column>
     <mj-text css-class="black-bar" align="center" font-size="20px" color="white" font-weight="bold" padding="2px 0">
       PHÂN TÍCH CHUYÊN SÂU TỪ LUẬT SƯ DI TRÚ
@@ -146,20 +141,21 @@
   </mj-column>
 </mj-section>
 
-<mj-section background-color="#fff" padding="0">
+<mj-section background-color="#fff" padding="15px 0 0 0">
   <mj-column width="50%">
     <mj-image
       src="https://dangduy03.github.io/image-limited/thu_nhap_cao.jpg"
       alt="Luật cư trú"
+      padding="0"
     />
   </mj-column>
 
   <mj-column padding="0 15px">
-    <mj-text font-size="20px" color="#333" font-weight="bold" align="justify" padding="10px 0 5px 0">
-      Thu nhập cao nhưng không có chứng minh. Bỏ túi 5 lưu ý chuẩn bị tài chính khi xin Visa du học Úc
+    <mj-text font-size="20px" color="#333" font-weight="bold" align="justify" padding="0px 0 5px 0">
+      Thu nhập cao nhưng không chứng minh được.  Bỏ túi 5 lưu ý chuẩn bị tài chính khi xin visa du học Úc
     </mj-text>
     <mj-text font-size="16px" color="#555" align="justify" padding="0px 0 5px 0">
-      Không thể xin cấp thị thực du học cho con vì không thể chứng minh thu nhập. Vậy phụ huynh cần chuẩn bị tài chính như thế nào? Hãy cùng nghe lời khuyên từ Luật sư di trú!
+      Không thể xin cấp thị thực du học vì không thể chứng minh thu nhập. Vậy phụ huynh cần chuẩn bị tài chính như thế nào? Hãy cùng nghe lời khuyên từ Luật sư di trú!
     </mj-text>
     <mj-button href="https://360connect.edu.vn/thu-nhap-cao-nhung-khong-the-chung-minh/" background-color="#d32f2f" font-weight="bold"  border-radius="10px" width="150px">
       Tìm hiểu ngay
@@ -229,10 +225,12 @@
       <strong>TP Hồ Chí Minh:</strong>  156/47 Đường số 1, Phường Tân Phú, Quận 7
     </mj-text>
     <mj-text font-size="15px" color="#555">
-      <strong>Hotline:</strong> 0912 292 360
+      <strong>Hotline:</strong>
+      <a href="https://zalo.me/0912399360" style="color:bule; text-decoration:none">0912399360</a>
     </mj-text>
     <mj-text font-size="15px" color="#555">
-      <strong>Email:</strong> Admin.hn@360connect.edu.vn
+      <strong>Email: </strong>
+      <a href="mailto:Admin.hn@360connect.edu.vn" style="color:bule; text-decoration:none">Admin.hn@360connect.edu.vn</a>
     </mj-text>
     <mj-text font-size="20px" font-weight="bold" padding-top="15px">
       Connect 360 - Chắp cánh ước mơ du học
