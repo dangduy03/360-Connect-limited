@@ -30,14 +30,14 @@
     <mj-section background-color="#fff" padding="0 0 15px 0">
       <mj-column>
         <mj-image
-          src="https://dangduy03.github.io/image-limited/30_4.jpg"
+          src="https://dangduy03.github.io/image-limited/So_thang_5/So_thang_5.jpg"
           alt="30/4"
           padding="0"
         />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#990B0B"  text-align="center" padding="15px 0" >
+    <mj-section background-color="#990B0B" text-align="center" padding="15px 0" >
   <mj-column >
     <mj-text css-class="black-bar" align="center" font-size="25px" color="white" font-weight="bold" padding="2px 0">
       LATEST NEWS
@@ -48,7 +48,7 @@
     <mj-section background-color="#fff" padding="15px 0 0 0">
       <mj-column width="50%" padding="0" >
         <mj-image
-          src="https://dangduy03.github.io/image-limited/AI.png"
+          src="https://dangduy03.github.io/image-limited/So_thang_4/A360.png"
           alt="Ước mơ"
           padding="0"
         />
@@ -58,7 +58,7 @@
         <mj-text font-size="20px" color="#990B0B" font-weight="bold"  align="justify" padding="0px 0px 15px 0">
           TỪ ƯỚC MƠ ĐẾN ÁC MỘNG: HÀNG TRĂM TRIỆU ĐỒNG "CHÔN VÙI" TRONG HỢP ĐỒNG DU HỌC
         </mj-text>
-        <mj-text font-size="16px" color="#6C3A09" align="justify" padding="0px 0 5px 0">
+        <mj-text font-size="16px" color="#6C3A09"  align="justify" padding="0px 0 5px 0">
          Khi giấc mơ xuất ngoại hóa cơn ác mộng tài chính - sự thật đằng sau những hợp đồng du học ngỡ là "vé vàng" đổi đời.
         </mj-text>
         <mj-button href="https://www.facebook.com/photo/?fbid=3995986680677995&set=a.1451211171822238" background-color="#990B0B" font-weight="bold"   width="200px">
@@ -70,7 +70,7 @@
     <mj-section background-color="#fff" padding="15px 0 0 0">
       <mj-column width="50%" padding="0">
         <mj-image
-          src="https://dangduy03.github.io/image-limited/visa_di_tru_uc.jpg"
+          src="https://dangduy03.github.io/image-limited/So_thang_4/visa_di_tru_uc.jpg"
           alt="Học bổng"
           padding="0"
         />
@@ -101,7 +101,7 @@
    <mj-section background-color="#fff" padding="15px 0 0 0">
   <mj-column width="50%">
     <mj-image
-      src="https://dangduy03.github.io/image-limited/Hoc.jpg"
+      src="https://dangduy03.github.io/image-limited/So_thang_4/RMS_2.png"
       alt="CƠ HỘI DU HỌC, DU LỊCH VÀ ĐỊNH CƯ"
       padding="0"
     />
@@ -109,21 +109,21 @@
 
   <mj-column padding="0 15px">
     <mj-text font-size="20px" color="#990B0B" font-weight="bold"  align="justify" padding="0px 0 5px 0">
-      HỌC NHỮNG GÌ ĐỂ KHÔNG “LỖI THỜI” KHI DU HỌC?
+      FEDERATION UNIVERSITY – DU HỌC ÚC: HỌC THẬT – LÀM THẬT – NHẬN LƯƠNG THẬT!
     </mj-text>
     <mj-text font-size="16px" color="#6C3A09" align="justify"  padding="0px 0 5px 0">
-      Không ai muốn mất 4-5 năm du học chỉ để cầm tấm bằng... chẳng ai cần. Bài viết này sẽ giúp bạn nhìn rõ hơn về những ngành học thật sự “có tương lai".
+      Bạn muốn vừa học đại học/thạc sĩ tại Úc, vừa có kinh nghiệm làm việc thực tế được trả lương? Federation University chính là nơi khởi đầu tuyệt vời cho bạn!
     </mj-text>
-    <mj-button href="https://www.facebook.com/profile.php?id=100008001066846" background-color="#990B0B" font-weight="bold"   width="200px">
+    <mj-button href="https://www.facebook.com/permalink.php?story_fbid=pfbid032MrVgkjpMaSpp9cPNsxbtABoP9x2tbFGjsLZCxi9ySXpHUCnMLVMiEGqpYVmMKfjl&id=100008001066846" background-color="#990B0B" font-weight="bold"   width="200px">
       XEM THÊM
     </mj-button>
   </mj-column>
 </mj-section>
 
-<mj-section background-color="#fff" padding="15px 0 15px 0">
+<mj-section background-color="#fff" padding="15px 0 0 0">
   <mj-column width="50%">
     <mj-image
-      src="https://dangduy03.github.io/image-limited/giangvien.jpg"
+      src="https://dangduy03.github.io/image-limited/So_thang_4/ketnoi.png"
       alt="Lịch nghỉ Tết"
       padding="0"
     />
@@ -131,7 +131,7 @@
 
   <mj-column padding="0 15px">
     <mj-text font-size="20px" color="#990B0B" font-weight="bold"  align="justify" padding="0px 0 5px 0">
-      360 CONNECT - KẾT NỐI CƠ HỘI DU HỌC, DU LỊCH VÀ ĐỊNH CƯ
+      CƠ HỘI VÀNG TỪ CỦA UTS COLLEGE: HỌC BỔNG LÊN 100% VỚI CHƯƠNG TRÌNH AS & A LEVEL QUỐC TẾ!
     </mj-text>
     <mj-text font-size="16px" color="#6C3A09" align="justify" padding="0px 0 5px 0">
       Học bổng từ 50 lên đến 100%
@@ -142,61 +142,33 @@
     <mj-text font-size="16px" color="#6C3A09" align="justify"  padding="0px 0 5px 0">
       Chương trình học quốc tế với lộ trình rõ ràng
     </mj-text>
-    <mj-button href="https://www.facebook.com/profile.php?id=100008001066846" background-color="#990B0B" font-weight="bold"   width="200px">
+    <mj-button href="https://360connect.edu.vn/chuong-trinh-as-a-level-uts-college/" background-color="#990B0B" font-weight="bold"   width="200px">
       TÌM HIỂU NGAY
     </mj-button>
   </mj-column>
 </mj-section>
 
-<mj-section background-color="#fff" padding="15px 0 0 0">
+
+<mj-section background-color="#fff" padding="15px 0 15px 0">
   <mj-column width="50%">
     <mj-image
-      src="https://dangduy03.github.io/image-limited/AnhLUU.png"
-      alt="Luật cư trú"
-      padding="0 5px 5px 0"
-      align="left"
+      src="https://dangduy03.github.io/image-limited/So_thang_4/AnhLUU.png"
+      alt="ANHLUU"
+      padding="0"
     />
-        <mj-table width="85%" >
-      <tr>
-        <td align="center" style="padding: 0 10px;">
-          <a href="https://360connect.edu.vn/gia-han-visa-du-hoc-uc/" target="_blank" style="text-decoration: none;">
-            <img
-              src="https://dangduy03.github.io/image-limited/A_NUT.png"
-              alt="Nút bấm 1"
-              style="display: block; max-width: 100%; height: auto; border: 0;"
-              align="left"
-            />
-          </a>
-        </td>
-      </tr>
-    </mj-table>
   </mj-column >
 
   <mj-column width="50%">
     <mj-image
-      src="https://dangduy03.github.io/image-limited/AnhDINH.png"
-      alt="Luật cư trú"
-      padding="0 0 5px 5px"
-      align="right"
+      src="https://dangduy03.github.io/image-limited/So_thang_4/AnhDINH.png"
+      alt="ANHDINH"
+      padding="0"
     />
-        <mj-table width="85%" >
-      <tr>
-        <td align="center" style="padding: 0 10px;">
-          <a href="https://360connect.edu.vn/hanh-trinh-du-hoc-day-cam-hung/" target="_blank" style="text-decoration: none;">
-            <img
-              src="https://dangduy03.github.io/image-limited/A_NUT.png" 
-              alt="Nút bấm 2"
-              style="display: block; max-width: 100%; height: auto; border: 0;"
-              align="right"
-            />
-          </a>
-        </td>
-      </tr>
-    </mj-table>
   </mj-column>
 </mj-section>
 
-<mj-section background-color="#7D0B0B"  text-align="center" padding="15px 0">
+
+<mj-section background-color="#7D0B0B"  padding="15px 0 15px 0">
   <mj-column>
     <mj-text css-class="black-bar" align="center" font-size="20px" color="white" font-weight="bold" padding="2px 0">
       CÂU CHUYỆN THÀNH CÔNG
@@ -209,7 +181,7 @@
 <mj-section background-color="#fff" padding="15px 0 15px 0">
   <mj-column width="50%">
     <mj-image
-      src="https://dangduy03.github.io/image-limited/ANH3.png"
+      src="https://dangduy03.github.io/image-limited/So_thang_4/ANH3.png"
       alt="Lịch nghỉ Tết"
       padding="0"
     />
@@ -240,35 +212,35 @@
   <mj-social-element
     name="Zalo"
     href="https://zalo.me/0912399360"
-    src="https://dangduy03.github.io/image-limited/zalo.png"
+    src="https://dangduy03.github.io/image-limited/So_thang_4/zalo.png"
     alt="Zalo"
     padding="0 25px"
   ></mj-social-element>
   <mj-social-element
     name="Facebook"
     href="https://www.facebook.com/c360connect"
-    src="https://dangduy03.github.io/image-limited/facebook.png"
+    src="https://dangduy03.github.io/image-limited/So_thang_4/facebook.png"
     alt="Facebook"
     padding="0 25px"
   ></mj-social-element>
   <mj-social-element
     name="YouTube"
     href="https://www.youtube.com/@360connect-chapcanhuocmodu3"
-    src="https://dangduy03.github.io/image-limited/youtube.png"
+    src="https://dangduy03.github.io/image-limited/So_thang_4/youtube.png"
     alt="YouTube"
     padding="0 25px"
   ></mj-social-element>
   <mj-social-element
     name="Instagram"
     href="https://www.instagram.com/duhoc_360connect/"
-    src="https://dangduy03.github.io/image-limited/instagram.png"
+    src="https://dangduy03.github.io/image-limited/So_thang_4/instagram.png"
     alt="Instagram"
     padding="0 25px"
   ></mj-social-element>
   <mj-social-element
     name="Instagram"
     href="https://www.tiktok.com/@du_hoc_360connect?lang=vi-VN"
-    src="https://dangduy03.github.io/image-limited/T4.jpg"
+    src="https://dangduy03.github.io/image-limited/So_thang_4/T4.jpg"
     alt="Instagram"
     padding="0 25px"
   ></mj-social-element>
@@ -281,7 +253,7 @@
 
     <mj-section background-color="#fff" padding="10px 20px">
   <mj-column>
-    <mj-text font-size="29px" color="#6C3A09" font-weight="bold" padding-bottom="10px">
+    <mj-text font-size="25px" color="#6C3A09" font-weight="bold" padding-bottom="10px">
       Trung tâm tư vấn du học 360 Connect
     </mj-text>
     <mj-text font-size="15px" color="#6C3A09" >
