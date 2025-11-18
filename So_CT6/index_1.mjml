@@ -273,7 +273,8 @@
             <td align="center" style="border:5px solid #5D8346; border-radius:6px; padding:10px;">
               <p style="color:#C34444; font-size:20px; margin:5px 0;">@TungLam</p>
               <a href="https://www.youtube.com/watch?v=z-rDtveQQTA">
-                <img src="https://dangduy03.github.io/image-limited/So_CT6/Macquarie%20Uni.gif" width="100%" style="border-radius:4px;" />
+                <!-- <img src="https://dangduy03.github.io/image-limited/So_CT6/MacquarieUni.gif" width="100%" style="border-radius:4px;" /> -->
+                <img src="https://dangduy03.github.io/image-limited/So_CT6/Macquarie.png" width="100%" style="border-radius:4px;" />
               </a>
               <p style="color:#5D8346; font-weight:bold; font-size:15px; margin:5px 0; text-decoration: underline;">Macquarie Daily Vlog</p>
             </td>
@@ -287,7 +288,9 @@
             <td align="center" style="border:5px solid #5D8346; border-radius:6px; padding:10px;">
               <p style="color:#C34444; font-size:20px; margin:5px 0;">@QuangVinh</p>
               <a href="https://www.tiktok.com/@du_hoc_360connect/video/7515054199487597832?is_from_webapp=1">
-                <img src="https://dangduy03.github.io/image-limited/So_CT6/UTS Uni.gif" width="100%" style="border-radius:4px;" />
+                <!-- <img src="https://dangduy03.github.io/image-limited/So_CT6/UTSUni.gif" width="100%" style="border-radius:4px;" /> -->
+                <img src="https://dangduy03.github.io/image-limited/So_CT6/UTS.png" width="100%" style="border-radius:4px;" />
+
               </a>
               <p style="color:#5D8346; font-weight:bold; font-size:15px; margin:5px 0; text-decoration: underline;">Library Tour – UTS Edition</p>
             </td>
@@ -304,7 +307,9 @@
             <td align="center" style="border:5px solid #5D8346; border-radius:6px; padding:10px;">
               <p style="color:#C34444; font-size:20px; margin:5px 0;">@ChieuMinh</p>
               <a href="https://www.youtube.com/shorts/kb3tBC3Ywvw">
-                <img src="https://dangduy03.github.io/image-limited/So_CT6/SUT Uni.gif" width="100%" style="border-radius:4px;" />
+                <!-- <img src="https://dangduy03.github.io/image-limited/So_CT6/SUTUni.gif" width="100%" style="border-radius:4px;" /> -->
+                <img src="https://dangduy03.github.io/image-limited/So_CT6/SUT.png" width="100%" style="border-radius:4px;" />
+                
               </a>
               <p style="color:#5D8346; font-weight:bold; font-size:15px; margin:5px 0; text-decoration: underline;">University Check – SUT</p>
             </td>
@@ -318,7 +323,9 @@
             <td align="center" style="border:5px solid #5D8346; border-radius:6px; padding:10px;">
               <p style="color:#C34444; font-size:20px; margin:5px 0;">@NamKhanh</p>
               <a href="https://youtube.com/shorts/qBxD6_vMKcU?feature=share">
-                <img src="https://dangduy03.github.io/image-limited/So_CT6/QUT Uni.gif" width="100%" style="border-radius:4px;" />
+                <!-- <img src="https://dangduy03.github.io/image-limited/So_CT6/QUTUni.gif" width="100%" style="border-radius:4px;" /> -->
+                <img src="https://dangduy03.github.io/image-limited/So_CT6/QUT.png" width="100%" style="border-radius:4px;" />
+
               </a>
               <p style="color:#5D8346; font-weight:bold; font-size:15px; margin:5px 0; text-decoration: underline;">QUT School Day</p>
             </td>
@@ -337,6 +344,11 @@
                  width="400px" />
         </mj-column>
     </mj-section>
+
+
+
+
+
 
 
 
