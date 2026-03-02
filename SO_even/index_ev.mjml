@@ -26,11 +26,12 @@
 
         <mj-section background-color="#fff" padding="15px 0 15px 0">
             <mj-column padding="0 15px" >
-                <mj-text font-family="Montserrat, Arial, sans-serif" font-size="24px" color="#2e2b2c" align="center" padding="0 0 10px 0" >
-                <span style="color: #B30000; font-weight: bold;">⏰ SỰ KIỆN TUYỂN SINH</span>
+                <mj-text font-family="Montserrat, Arial, sans-serif" font-size="25px" color="#2e2b2c" align="center" padding="0 0 10px 0" >
+                <span style="color: #B30000; font-weight: bold;">CƠ HỘI VÀNG: CHẠM ĐẾN ƯỚC MƠ</span>
                 </mj-text>
-                <mj-text font-family="Montserrat, Arial, sans-serif" font-size="24px" color="#2e2b2c" align="center" padding="0 0 10px 0" >
-                <span style="color: #B30000; font-weight: bold;">SWINBURNE UNIVERSITY OF TECHNOLOGY </span> 
+
+                <mj-text font-family="Montserrat, Arial, sans-serif" font-size="25px" color="#2e2b2c" align="center" padding="0 0 10px 0" >
+                <span style="color: #B30000; font-weight: bold;">HỌC BỔNG 30% ĐẾN TỪ SWINBURNE </span> 
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -43,26 +44,24 @@
             </mj-column>
         </mj-section>
 
+
+
         <mj-section background-color="#fff" padding="15px 0 0 0">
         <mj-column width="50%" >
             <mj-image
-            src="https://dangduy03.github.io/image-limited/So_CT7/uc.png"
+            src="https://dangduy03.github.io/image-limited/So_even/ev3b.png"
             alt="CƠ HỘI DU HỌC, DU LỊCH VÀ ĐỊNH CƯ"
             padding="0"
-
             />
         </mj-column>
 
+
         <mj-column padding="15px" >
             <mj-text font-family="Montserrat, Arial, sans-serif" font-size="18px"  color="#2e2b2c" align="justify"   padding="0 0 15px 0" line-height="1.5">
-                👉 Được biết tới là một trong những 
-                <span style="color: #B30000; font-weight: bold;">trường đại học</span> lâu đời nhất của 
-                <span style="color: #B30000; font-weight: bold;">Úc</span>, ngôi trường được rất nhiều quán quân chương trình 
-                <span style="color: #B30000; font-weight: bold;">Đường lên đỉnh Olympia</span> lựa chọn, 
-                <span style="color: #B30000; font-weight: bold;">Swinburne</span> luôn là lựa chọn hàng đầu của các 
-                <span style="color: #B30000; font-weight: bold;">du học sinh Úc</span> tương lai.
+                👉 Mở ra cánh cửa du học Úc: Học bổng 30% tại 
+                <span style="color: #B30000; font-weight: bold;">Đại học Swinburne</span> có thể là của bạn
             </mj-text>
-            <mj-image href="https://360connect.edu.vn/su-kien-tuyen-sinh-swinburne-university-of-technology/" 
+            <mj-image href="https://360connect.edu.vn/co-hoi-du-hoc-uc-voi-hoc-bong-30-swinburne/" 
                  src="https://dangduy03.github.io/image-limited/So_CT6/5.gif" 
                  alt="XEM CHI TIẾT" 
                  padding="15px 0 15px 0"
@@ -70,8 +69,9 @@
         </mj-column>
         </mj-section>
 
-        <mj-section background-color="#fff" padding="0px 0 0px 0">
-        <mj-column padding="30px 15px">
+
+        <mj-section background-color="#fff" padding="35px 0 0px 0">
+        <mj-column padding="0px 10px">
         <mj-text font-family="Montserrat, Arial, sans-serif" font-size="18px"  color="#2e2b2c" align="justify"   padding="0 0 15px 0" line-height="1.5">
             👉 Hứa hẹn trong sự kiện tuyển sinh, trường Đại học Công nghệ
             <span style="color: #B30000; font-weight: bold;"> Swinburne</span> mở ra nhiều 
@@ -81,7 +81,7 @@
         <mj-image href="https://360connect.edu.vn/su-kien-tuyen-sinh-swinburne-university-of-technology/" 
                  src="https://dangduy03.github.io/image-limited/So_CT6/6.gif" 
                  alt="TÌM HIỂU THÊM" 
-                 padding="15px 0 15px 0"
+                 padding="0px 0 15px 0"
                  width="200px" />
         </mj-column>
 
@@ -89,6 +89,62 @@
         <mj-column width="50%">
             <mj-image
             src="https://dangduy03.github.io/image-limited/So_even/ev1.png"
+            alt="Lịch nghỉ Tết"
+            padding="0"
+            />
+        </mj-column>
+        </mj-section>
+
+
+
+
+
+        <mj-section background-color="#fff" padding="35px 0 0 0">
+        <mj-column width="50%" >
+            <mj-image
+            src="https://dangduy03.github.io/image-limited/So_even/ev1b.png"
+            alt="CƠ HỘI DU HỌC, DU LỊCH VÀ ĐỊNH CƯ"
+            padding="0"
+
+            />
+        </mj-column>
+
+        <mj-column padding="0px 5px" >
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="18px"  color="#2e2b2c" align="justify"   padding="0 0 5px 0" line-height="1.5">
+                👉 Được biết tới là một trong những 
+                <span style="color: #B30000; font-weight: bold;">trường đại học</span> lâu đời nhất của 
+                <span style="color: #B30000; font-weight: bold;">Úc</span>, ngôi trường được rất nhiều quán quân chương trình 
+                <span style="color: #B30000; font-weight: bold;">Đường lên đỉnh Olympia</span> lựa chọn, 
+                <span style="color: #B30000; font-weight: bold;">Swinburne</span> luôn là lựa chọn hàng đầu của các 
+                <span style="color: #B30000; font-weight: bold;">du học sinh Úc</span> tương lai.
+            </mj-text>
+            <mj-image href="https://360connect.edu.vn/du-hoc-cung-quan-quan-duong-len-dinh-olympia/" 
+                 src="https://dangduy03.github.io/image-limited/So_CT6/5.gif" 
+                 alt="XEM CHI TIẾT" 
+                 padding="0px 0 35px 0"
+                 width="200px" />
+        </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#fff" padding="0px 0 0px 0">
+        <mj-column padding="30px 15px">
+        <mj-text font-family="Montserrat, Arial, sans-serif" font-size="18px"  color="#2e2b2c" align="justify"   padding="0 0 15px 0" line-height="1.5">
+            👉Khởi đầu nhanh – thành công lớn: Cô nàng
+            <span style="color: #B30000; font-weight: bold;"> Khánh My</span> dù chưa đủ 18 tuổi vẫn xuất sắc đạt học bổng cao nhất 
+            <span style="color: #B30000; font-weight: bold;">30% của Swinburne</span> và đi du học Úc chỉ sau 
+            <span style="color: #B30000; font-weight: bold;"> 6 tuần </span>cùng 360 Connect.
+        </mj-text>
+        <mj-image href="https://360connect.edu.vn/nguyen-khanh-my-du-hoc-uc-chi-sau-6-tuan/" 
+                 src="https://dangduy03.github.io/image-limited/So_CT6/6.gif" 
+                 alt="TÌM HIỂU THÊM" 
+                 padding="15px 0 15px 0"
+                 width="200px" />
+        </mj-column>
+
+
+        <mj-column width="50%">
+            <mj-image
+            src="https://dangduy03.github.io/image-limited/So_even/ev4a.png"
             alt="Lịch nghỉ Tết"
             padding="0"
             />
@@ -163,7 +219,7 @@
         <mj-section background-color="#fff" padding="5px 0 35px 0">
             <mj-column padding="0px 15px" >
                 <mj-text font-family="Montserrat, Arial, sans-serif" font-size="18px" color="#2e2b2c" align="justify" line-height="24px" padding="0">
-                 📍 <span style="color: #000000ff; font-weight: bold;">Địa điểm: </span>Văn phòng 360 Connect, tầng 9, số 20, Thụy Khuê, Tây Hồ, Hà Nội 
+                 📍 <span style="color: #000000ff; font-weight: bold;">Địa điểm: </span>902, tầng 9, 20 Thụy Khuê, Phường Tây Hồ, Hà Nội 
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -211,8 +267,8 @@
                     padding="0 25px"
                 ></mj-social-element>
                 <mj-social-element
-                    name="Instagram"
-                    href="https://www.tiktok.com/@du_hoc_360connect?lang=vi-VN"
+                    name="tikTok"
+                    href="https://www.tiktok.com/@360connectduhoc?is_from_webapp=1&sender_device=pc"
                     src="https://dangduy03.github.io/image-limited/So_thang_4/T4.jpg"
                     alt="Instagram"
                     padding="0 25px"
@@ -224,11 +280,11 @@
 
     <mj-section background-color="#fff" padding="10px 0 0px 0">
         <mj-column>
-            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="27px" color="#B30000" font-weight="bold" padding-bottom="10px">
-            Trung tâm Tư vấn du học 360 Connect
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="26px" color="#B30000" font-weight="bold" padding-bottom="10px">
+            360 Connect - Chắp Cánh Ước Mơ Du Học
             </mj-text>
             <mj-text font-family="Montserrat, Arial, sans-serif" font-size="17px" color="#6C3A09" >
-                <strong font-weight="bold">Địa chỉ:</strong> Tầng 9, số 20 Thụy Khuê, Tây Hồ, Hà Nội
+                <strong font-weight="bold">Địa chỉ:</strong> 902, tầng 9, 20 Thụy Khuê, Phường Tây Hồ, Hà Nội
             </mj-text>
             <mj-text font-family="Montserrat, Arial, sans-serif" font-size="17px" color="#6C3A09">
             <strong font-weight="bold">Hotline:</strong>
@@ -236,8 +292,9 @@
             </mj-text>
             <mj-text font-family="Montserrat, Arial, sans-serif" font-size="17px" color="#6C3A09">
             <strong font-weight="bold" >Email: </strong>
-            <a href="mailto:admin.hn@360connect.edu.vn" style="color: #6C3A09; text-decoration:none">admin.hn@360connect.edu.vn</a> và 
-            <a href="mailto:visa.hn@360connect.edu.vn" style="color: #6C3A09; text-decoration:none">visa.hn@360connect.edu.vn</a>
+            <!-- <a href="mailto:admin.hn@360connect.edu.vn" style="color: #6C3A09; text-decoration:none">admin.hn@360connect.edu.vn</a> và 
+            <a href="mailto:visa.hn@360connect.edu.vn" style="color: #6C3A09; text-decoration:none">visa.hn@360connect.edu.vn</a> -->
+            <a href="mailto:info@360connect.edu.vn" style="color: #6C3A09; text-decoration:none">info@360connect.edu.vn</a>
             </mj-text>
 
             <mj-text font-family="Montserrat, Arial, sans-serif" font-size="20px" font-weight="bold" padding-top="15px" color="#6C3A09">
@@ -248,7 +305,7 @@
             <tr>
                 <td style="vertical-align: top; width: 20px; padding: 0 5px 5px 0; color: #6C3A09;">•</td>
                 <td style="vertical-align: top; padding-bottom: 5px; color: #6C3A09;">
-                <strong>TP Hồ Chí Minh:</strong> 164.7 Đường số 1, Phường Tân Phú, Quận 7
+                <strong>TP Hồ Chí Minh:</strong> Số 164/7 Đường số 1, Phường Tân Mỹ, TP Hồ Chí Minh, Việt Nam
                 </td>
             </tr>
             <tr>
@@ -280,7 +337,7 @@
 
 
 
-    <mj-section background-color="#fff" padding="45px 0 20px 0" text-align="center">
+    <!-- <mj-section background-color="#fff" padding="45px 0 20px 0" text-align="center">
         <mj-column>
             <mj-table width="100%">
                 <tr>
@@ -292,7 +349,7 @@
                 </tr>
             </mj-table>
         </mj-column>
-    </mj-section>
+    </mj-section> -->
 
     </mj-wrapper>
     </mj-body>

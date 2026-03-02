@@ -1,0 +1,167 @@
+    <mjml>
+    <mj-head>
+        <mj-preview>LATEST NEWS - 360Connect</mj-preview>
+        <mj-style inline="inline">
+        <mj-style>
+        .cell {
+            border: 2px solid #5D8346;
+            border-radius: 5px;
+            padding: 10px;
+        }
+        </mj-style> 
+    </mj-head>
+    <mj-body background-color="#f9f9f9">
+    <mj-wrapper border="5px solid #AB0618" padding="0">
+
+    <mj-section background-color="#fff" padding="0 0 0px 0">
+
+    <mj-column>
+        <mj-image
+          src="https://dangduy03.github.io/image-limited/So_CT12/360TA.png"
+          alt="Logo"
+          width="200px"
+          padding="35px 0 0px 0"
+        />
+      </mj-column>
+
+
+    </mj-section>
+
+        <mj-section background-color="#fff" padding="0 0 0px 0">
+            <mj-column>
+                <mj-image
+                src="https://dangduy03.github.io/image-limited/So_TeT_T1/TA4.gif"
+                alt="▶ Xem video"
+                padding="30px 0 20px 0"
+                />
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section background-color="#fff" padding="0 0 0px 0">
+            <mj-column>
+                <mj-image
+                src="https://dangduy03.github.io/image-limited/So_TeT_T1/TA3.png"
+                alt="▶ Xem video"
+                padding="20px 0 50px 0"
+                />
+            </mj-column>
+        </mj-section>
+        
+    </mj-section>
+
+
+    <mj-section background-color="#AB0618" padding="20px 0">
+        <mj-column>
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="25px" color="#ffffff" font-weight="bold" align="center" padding="10px 0">
+                FOLLOW US
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="20px" text-align="center" >
+        <mj-column>
+            <mj-social font-family="Montserrat, Arial, sans-serif" font-size="15px" icon-size="50px" align="center" padding="10px 10px">
+                <mj-social-element
+                    name="Zalo"
+                    href="https://zalo.me/0912399360"
+                    src="https://dangduy03.github.io/image-limited/So_thang_4/zalo.png"
+                    alt="Zalo"
+                    padding="0 25px"
+                ></mj-social-element>
+                <mj-social-element
+                    name="Facebook"
+                    href="https://www.facebook.com/c360connect"
+                    src="https://dangduy03.github.io/image-limited/So_thang_4/facebook.png"
+                    alt="Facebook"
+                    padding="0 25px"
+                ></mj-social-element>
+                <mj-social-element
+                    name="YouTube"
+                    href="https://www.youtube.com/@360connect-chapcanhuocmodu3"
+                    src="https://dangduy03.github.io/image-limited/So_thang_4/youtube.png"
+                    alt="YouTube"
+                    padding="0 25px"
+                ></mj-social-element>
+                <mj-social-element
+                    name="Instagram"
+                    href="https://www.instagram.com/duhoc_360connect/"
+                    src="https://dangduy03.github.io/image-limited/So_thang_4/instagram.png"
+                    alt="Instagram"
+                    padding="0 25px"
+                ></mj-social-element>
+                <mj-social-element
+                    name="TikTok"
+                    href="https://www.tiktok.com/@360connectduhoc?is_from_webapp=1&sender_device=pc"
+                    src="https://dangduy03.github.io/image-limited/So_thang_4/T4.jpg"
+                    alt="Instagram"
+                    padding="0 25px"
+                ></mj-social-element>
+            </mj-social>
+        </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#fff" padding="10px 0 0px 0">
+        <mj-column>
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="23px" color="#AB0618" font-weight="bold" padding-bottom="20px" align="center">
+            360 CONNECT - CHẮP CÁNH ƯỚC MƠ DU HỌC
+            </mj-text>
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" color="#6C3A09" line-height="1.5" padding="0px 0px 0px 25px">
+                <strong font-weight="bold">Địa chỉ:</strong> 902, tầng 9, 20 Thụy Khuê, Phường Tây Hồ, Hà Nội
+            </mj-text>
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" color="#6C3A09" line-height="1.5" padding="0px 0px 0px 25px">
+            <strong font-weight="bold">Hotline:</strong>
+            <a href="https://zalo.me/0912399360" style="color: #6C3A09; text-decoration:none">0912 399 360</a>
+            </mj-text>
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" color="#6C3A09" line-height="1.5" padding="0px 0px 0px 25px">
+            <strong font-weight="bold" >Email: </strong>
+            <a href="mailto:info@360connect.edu.vn" style="color: #6C3A09; text-decoration:none">info@360connect.edu.vn</a>
+            </mj-text>
+
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="17px" font-weight="bold" padding-top="5px" color="#6C3A09">
+            Văn phòng đại diện:
+            </mj-text>
+
+            <mj-table font-family="Montserrat, Arial, sans-serif" font-size="15px" padding="0px 0px 0px 25px">
+            <tr>
+                <td style="vertical-align: top; width: 20px; padding: 0 0px 0px 0; color: #6C3A09;">•</td>
+                <td style="vertical-align: top; padding-bottom: 0px; color: #6C3A09;">
+                <strong>TP Hồ Chí Minh:</strong> Số 164/7 Đường số 1, Phường Tân Mỹ, TP Hồ Chí Minh, Việt Nam
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align: top; width: 10px; padding: 0 0px 0px 0; color: #6C3A09; " >•</td>
+                <td style="vertical-align: top; padding-bottom: 0px; color: #6C3A09;">
+                <strong>Australia:</strong> Suite 2, Level 1, 9-11 Grosvenor Street, Neutral Bay, NSW, Australia, New South Wales
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align: top; width: 20px; padding: 0 0px 0px 0; color: #6C3A09;">•</td>
+                <td style="vertical-align: top; padding-bottom: 0px; color: #6C3A09;">
+                <strong>USA:</strong> 671 Safeharbour Dr, Ocoee FL 34761
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align: top; width: 20px; padding: 0 0px 0px 0; color: #6C3A09;">•</td>
+                <td style="vertical-align: top; padding-bottom: 0px; color: #6C3A09;">
+                <strong>Canada:</strong> 5-4150 Fairview st, Burlington City, Ontario, Canada
+                </td>
+            </tr>
+            </mj-table>
+
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="20px" font-weight="bold" padding-top="10px" color="#6C3A09" align="center">
+            LIÊN HỆ VỚI CHÚNG TÔI ĐỂ ĐƯỢC TƯ VẤN MIỄN PHÍ </mj-text>
+
+        </mj-column>
+    </mj-section>
+
+    
+    </mj-section>
+
+
+
+
+    </mj-wrapper>
+    </mj-body>
+    </mjml>

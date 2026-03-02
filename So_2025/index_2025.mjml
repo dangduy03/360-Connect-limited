@@ -1,0 +1,570 @@
+    <mjml>
+    <mj-head>
+        <mj-preview>LATEST NEWS - 360Connect</mj-preview>
+        <mj-style inline="inline">
+        <mj-style>
+        .cell {
+            border: 2px solid #AB0618;
+            border-radius: 5px;
+            padding: 10px;
+        }
+        </mj-style> 
+    </mj-head>
+    <mj-body background-color="#f9f9f9">
+    <mj-wrapper border="5px solid #AB0618" padding="0">
+
+    <mj-section background-color="#fff" padding="0 0 0px 0">
+
+
+    </mj-section>
+        <mj-section background-color="#fff" padding="0 0 0px 0">
+            <mj-column>
+                <mj-image
+                href="https://360connect.edu.vn/" 
+                src="https://dangduy03.github.io/image-limited/So_2025/gif2025.gif"
+                alt="360Connect"
+                padding="0"
+                />
+            </mj-column>
+        </mj-section>  
+
+        <mj-section background-color="#fff" padding="15px 0 15px 0">
+            <mj-column padding="0 15px" >
+                <mj-text font-family="Montserrat, Arial, sans-serif" font-size="19px" color="#2e2b2c" align="justify" line-height="24px" padding="0">
+                <span style="color: #AB0618; font-weight: bold;">360 </span>
+                <span style="color: #AB0618; font-weight: bold;">Connect</span> xin chào,
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#fff" padding="15px 0 55px 0">
+            <mj-column padding="0 15px" >
+                <mj-text font-family="Montserrat, Arial, sans-serif" font-size="19px" color="#2e2b2c" align="justify" line-height="24px" padding="0">
+                Cảm ơn bạn đã đưa ra một quyết định tuyệt vời khi lựa chọn Trung tâm Tư vấn du học 360 Connect. Chúng tôi rất mong được đồng hành cùng bạn vươn tới thành công.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+
+
+
+        <mj-section background-color="#ffffff" padding="20px 0 0px 0">
+            <mj-column>
+                <mj-text font-family="Montserrat, Arial, sans-serif" font-size="28px" color="#AB0618" font-weight="bold" align="center" padding="0px 0 10px 0">
+                MỤC LỤC
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#fff" padding="50px 0 100px 0">
+            <mj-column>
+                <mj-image
+                href="https://360connect.edu.vn/" 
+                src="https://dangduy03.github.io/image-limited/So_2025/sua2025.png"
+                alt="360Connect"
+                padding="0"
+                />
+            </mj-column>
+        </mj-section> 
+
+        <mj-section background-color="#AB0618" padding="20px 0">
+            <mj-column>
+                <mj-text font-family="Montserrat, Arial, sans-serif" font-size="25px" color="#ffffff" font-weight="bold" align="center" padding="10px 0">
+                 ABOUT US
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#fff" padding="0 0 15px 0">
+            <mj-column>
+                <mj-image
+                href="https://360connect.edu.vn/" 
+                src="https://dangduy03.github.io/image-limited/So_CT6/About%20Us.png"
+                alt="360Connect"
+                padding="0"
+                />
+            </mj-column>
+        </mj-section> 
+
+
+    <mj-section background-color="#AB0618" padding="20px 0">
+        <mj-column>
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="25px" color="#ffffff" font-weight="bold" align="center" padding="10px 0">
+                CÂU CHUYỆN THÀNH CÔNG
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="20px 15px">
+        <mj-column>
+
+            <mj-section background-color= "#AB0618" padding="15px 0 15px 0" border-radius="4px">
+                <mj-column>
+                    <mj-text font-family="Montserrat, Arial, sans-serif" font-size="17px" color="#ffffff" font-weight="bold" align="center" padding="0">
+                         CHỊ ĐI TRƯỚC - EM NỐI TIẾP HÀNH TRÌNH TẠI ÚC
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" font-style="italic" color="#2e2b2c" align="center" padding="15px 0 2px 0" line-height="1.5">
+                "Du học không chỉ là 
+                <span style="color: #AB0618; font-weight: bold;">bước ngoặt lớn</span>, mà còn là một
+                <span style="color: #AB0618; font-weight: bold;">hành trình khám </span>
+            </mj-text>
+
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" font-style="italic" color="#2e2b2c" align="center" padding="0 0 2px 0" line-height="1.5">
+                <span style="color: #AB0618; font-weight: bold;"> phá bản thân</span>. Em rất biết ơn sự 
+                <span style="color: #AB0618; font-weight: bold;">hỗ trợ tận tâm  </span>từ 360 Connect, 
+            </mj-text>
+
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" font-style="italic" color="#2e2b2c" align="center" padding="0 0 2px 0" line-height="1.5">
+                giúp mọi thứ 
+                <span style="color: #AB0618; font-weight: bold;">diễn ra thuận lợi</span>. Hiện tại em rất háo hức
+            </mj-text>
+
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" font-style="italic" color="#2e2b2c" align="center" padding="0 0 15px 0" line-height="1.5">
+                 trải nghiệm cuộc sống mới tại Úc!" 
+            </mj-text>
+
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" color="#2e2b2c" align="center" padding="0 0 10px 0" font-style="italic">
+                - <span style="color: #AB0618; font-weight: bold;">Minh Khánh</span> chia sẻ -
+            </mj-text>
+
+            <mj-section background-color="#fff" padding="25px 0 0 0">
+                <mj-column width="50%" >
+                    <mj-image
+                    href="https://360connect.edu.vn/nguyen-minh-khanh-nhan-visa-du-hoc-uc-trong-hon-3-tuan/" 
+                    src="https://dangduy03.github.io/image-limited/So_2025/khanh2.png"
+                    alt="CƠ HỘI DU HỌC, DU LỊCH VÀ ĐỊNH CƯ"
+                    padding="0"
+
+                    />
+                </mj-column>
+
+                <mj-column padding="40px 10px" >
+                    <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px"  color="#2e2b2c" align="justify"   padding="0 0 15px 0" line-height="1.5">
+                        Chỉ trong hơn có
+                        <span style="color: #AB0618; font-weight: bold;">3 tuần </span>bạn
+                        <span style="color: #AB0618; font-weight: bold;">Nguyễn Minh Khánh</span> đã thành công nhận được visa du học của
+                        <span style="color: #AB0618; font-weight: bold;">xứ sở chuột túi. </span>
+                    </mj-text>
+                    <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" color="#2e2b2c" align="justify"  padding="0px 0 5px 0" line-height="1.5">
+                    👇 Thời gian nhận visa 
+                    <span style="color: #AB0618; font-weight: bold;">“tốc độ”</span>
+                    </mj-text>
+                    <mj-image 
+                        href="https://360connect.edu.vn/nguyen-minh-khanh-nhan-visa-du-hoc-uc-trong-hon-3-tuan/" 
+                        src="https://dangduy03.github.io/image-limited/So_CT6/5.gif" 
+                        alt="XEM CHI TIẾT" 
+                        padding="0px 0 0px 0"
+                        width="200px" />
+                </mj-column>
+            </mj-section>
+        </mj-column>
+    </mj-section>
+
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="20px 15px">
+        <mj-column>
+
+            <mj-section background-color="#AB0618" padding="15px 0 15px 0" border-radius="4px">
+                        <mj-column>
+                            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="17px" color="#ffffff" font-weight="bold" align="center" padding="0">
+                                DU HỌC ÚC: TÀI CHÍNH YẾU CÓ THẬT SỰ LÀ RÀO CẢN?
+                            </mj-text>
+                        </mj-column>
+            </mj-section>
+
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" font-style="italic" color="#2e2b2c" align="center" padding="15px 0 2px 0" line-height="1.5">
+                “Từ buổi tư vấn đầu tiên đến ngày nhận visa – mọi thứ diễn ra
+                <span style="color: #AB0618; font-weight: bold;">nhanh</span>
+            </mj-text>
+
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" font-style="italic" color="#2e2b2c" align="center" padding="0 0 2px 0" line-height="1.5">
+                <span style="color: #AB0618; font-weight: bold;">hơn cả kỳ vọng</span>. Khoảnh khắc nhận được visa em cảm thấy mọi
+            </mj-text>
+
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" font-style="italic" color="#2e2b2c" align="center" padding="0 0 2px 0" line-height="1.5">
+                công sức chuẩn bị đã được đền đáp và giờ em đã
+                <span style="color: #AB0618; font-weight: bold;">sẵn sàng</span>
+            </mj-text>
+
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" font-style="italic" color="#2e2b2c" align="center" padding="0 0 15px 0" line-height="1.5">
+                 <span style="color: #AB0618; font-weight: bold;">bắt đầu một hành trình mới</span> !”
+            </mj-text>
+
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" color="#2e2b2c" align="center" padding="0 0 10px 0" font-style="italic">
+                - <span style="color: #AB0618; font-weight: bold;">Trung Tín</span> chia sẻ -
+            </mj-text>
+
+
+            <mj-section background-color="#fff" padding="25px 0 0 0">
+                <mj-column width="50%" >
+                    <mj-image
+                    href="https://360connect.edu.vn/kho-khan-chung-minh-tai-chinh-van-do-visa-uc/"
+                    src="https://dangduy03.github.io/image-limited/So_2025/tin2.png"
+                    alt="CƠ HỘI DU HỌC, DU LỊCH VÀ ĐỊNH CƯ"
+                    padding="0"
+
+                    />
+                </mj-column>
+
+                <mj-column padding="40px 10px" >
+                    <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px"  color="#2e2b2c" align="justify"   padding="0 0 15px 0" line-height="1.5">
+                        Không phải vấn đề mới nhưng ít ai đề cập.
+                        <span style="color: #AB0618; font-weight: bold;">Lê Trung Tín </span>cùng
+                        <span style="color: #AB0618; font-weight: bold;">360 Connect</span> đã
+                        <span style="color: #AB0618; font-weight: bold;">“đập tan” </span>trở ngại này như thế nào?
+                    </mj-text>
+                    <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" color="#2e2b2c" align="justify"  padding="0px 0 5px 0" line-height="1.5">
+                    👇 Xử lý nỗi lo vấn đề
+                    <span style="color: #AB0618; font-weight: bold;">chứng minh tài chính</span>
+                    </mj-text>
+                    <mj-image 
+                        href="https://360connect.edu.vn/le-trung-tin-chinh-phuc-visa-du-hoc-uc/" 
+                        src="https://dangduy03.github.io/image-limited/So_CT6/6.gif" 
+                        alt="XEM CHI TIẾT" 
+                        padding="0px 0 0px 0"
+                        width="200px" />
+                </mj-column>
+            </mj-section>
+        </mj-column>
+    </mj-section>
+    
+        <mj-section background-color="#FFFFFF" padding="20px 15px">
+        <mj-column>
+
+            <mj-section background-color="#AB0618" padding="15px 0 15px 0" border-radius="4px">
+                        <mj-column>
+                            <mj-text font-family = "Segoe UI, Roboto, Arial, sans-serif" font-size="17px" color="#ffffff" font-weight="bold" align="center" padding="0">
+                                NHANH NHƯ TỐC ĐỘ ÁNH SÁNG: VISA DU LỊCH ÚC SAU 4 NGÀY
+                            </mj-text>
+                        </mj-column>
+            </mj-section>
+
+            <mj-section background-color="#fff" padding="15px 0 0 0">
+                <mj-column width="50%" >
+                    <mj-image
+                    href="https://www.mlmigration.com/vi/visa-600-du-lich-uc-thanh-cong-chi-trong-4-ngay/" 
+                    src="https://dangduy03.github.io/image-limited/So_2025/nhu.jpg"
+                    alt="CƠ HỘI DU HỌC, DU LỊCH VÀ ĐỊNH CƯ"
+                    padding="0"
+
+                    />
+                </mj-column>
+
+                <mj-column padding="35px 10px" >
+                    <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px"  color="#2e2b2c" align="justify"   padding="0 0 15px 0" line-height="1.5">
+                        Đâu là bí kíp mà 360 Connect
+                        <span style="color: #AB0618; font-weight: bold;">“ra chiêu” </span> giúp gia đình
+                        <span style="color: #AB0618; font-weight: bold;">chị Như</span> lấy trọn visa du lịch trong 
+                        <span style="color: #AB0618; font-weight: bold;">vòng 4 ngày? </span>
+                    </mj-text>
+                    <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" color="#2e2b2c" align="justify"  padding="0px 0 5px 0" line-height="1.5">
+                    👇 Đâu là bí kíp giúp đậu 
+                    <span style="color: #AB0618; font-weight: bold;">visa du lịch nhanh chóng</span>
+                    </mj-text>
+                    <mj-image 
+                        href="https://www.mlmigration.com/vi/visa-600-du-lich-uc-thanh-cong-chi-trong-4-ngay/"  
+                        src="https://dangduy03.github.io/image-limited/So_CT6/7.gif"  
+                        alt="XEM CHI TIẾT" 
+                        padding="0px 0 50px 0"
+                        width="200px" />
+                </mj-column>
+            </mj-section>
+        </mj-column>
+    </mj-section>
+        
+    <mj-section background-color="#AB0618" padding="20px 0">
+        <mj-column>
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="25px" color="#ffffff" font-weight="bold" align="center" padding="5px 0">
+                TOÀN BỘ THAY ĐỔI VISA NĂM 2025
+            </mj-text>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+
+
+    <mj-section background-color="#fff" padding="35px 0 35px 0">
+        <mj-column width="50%" >
+            <mj-image
+            href="https://www.mlmigration.com/vi/khong-the-bo-lo-tong-quan-thay-doi-visa-2025/" 
+            src="https://dangduy03.github.io/image-limited/So_2025/d0.png"
+            alt="CƠ HỘI DU HỌC, DU LỊCH VÀ ĐỊNH CƯ"
+            padding="0"
+
+            />
+        </mj-column>
+
+        <mj-column padding="25px 10px" >
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px"  color="#2e2b2c" align="justify"   padding="0 0 15px 0" line-height="1.5">
+                <span style="color: #AB0618; font-weight: bold;">Chính phủ Úc</span> ban hành nhiều chính sách mới, tạo điều kiện thuận lợi cho con đường 
+                <span style="color: #AB0618; font-weight: bold;">du học</span> của
+                <span style="color: #AB0618; font-weight: bold;">học sinh, sinh viên Việt Nam. </span>
+            </mj-text>
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" color="#2e2b2c" align="justify"  padding="0px 0 5px 0" line-height="1.5">
+            👇 Điểm nhấn mới trong chính sách
+            <span style="color: #AB0618; font-weight: bold;">visa Úc</span> trong
+            <span style="color: #AB0618; font-weight: bold;"> năm 2025</span>
+            </mj-text>
+            <mj-image 
+                href="https://www.mlmigration.com/vi/khong-the-bo-lo-tong-quan-thay-doi-visa-2025/" 
+                 src="https://dangduy03.github.io/image-limited/So_CT6/5.gif" 
+                 alt="XEM CHI TIẾT" 
+                 padding="0px 0 0px 0"
+                 width="200px" />
+        </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#AB0618" padding="20px 0 20px 0">
+        <mj-column>
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="25px" color="#ffffff" font-weight="bold" align="center" padding="5px 0">
+                ĐIỂM TIN THÁNG 12
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="35px 0 0 0">
+        <mj-column width="50%" >
+            <mj-image
+            href="https://www.mlmigration.com/vi/nganh-hoc-cao-hoc-co-co-hoi-dinh-cu-cao-tai-uc/" 
+            src="https://dangduy03.github.io/image-limited/So_2025/d1.png"
+            alt="CƠ HỘI DU HỌC, DU LỊCH VÀ ĐỊNH CƯ"
+            padding="0"
+
+            />
+        </mj-column>
+
+        <mj-column padding="50px 10px" >
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px"  color="#2e2b2c" align="justify"   padding="0 0 15px 0" line-height="1.5">
+                <span style="color: #AB0618; font-weight: bold;">Xứ sở chuột túi</span> đang mở rộng cơ hội
+                <span style="color: #AB0618; font-weight: bold;">nghề nghiệp </span>và
+                <span style="color: #AB0618; font-weight: bold;">định cư</span>  khi bạn lựa chọn những ngành học đúng đắn sau...
+            </mj-text>
+            <mj-image 
+                href="https://www.mlmigration.com/vi/nganh-hoc-cao-hoc-co-co-hoi-dinh-cu-cao-tai-uc/" 
+                 src="https://dangduy03.github.io/image-limited/So_CT6/5.gif" 
+                 alt="XEM CHI TIẾT" 
+                 padding="0px 0 0px 0"
+                 width="200px" />
+        </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="0px 0 0px 0">
+        <mj-column padding="60px 10px">
+        <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" color="#2e2b2c" align="justify"  padding="0px 0 5px 0" line-height="1.5">
+        <span style="color: #AB0618; font-weight: bold;">Hộ chiếu Việt Nam tăng 2 bậc</span> thời gian không chờ đợi ai – xem ngay cách xử lý khôn ngoan!
+        </mj-text>
+        <mj-image 
+                href="https://www.mlmigration.com/vi/ho-chieu-viet-nam-tang-2-bac-trong-xep-hang-quoc-te/" 
+                 src="https://dangduy03.github.io/image-limited/So_CT6/6.gif" 
+                 alt="TÌM HIỂU THÊM" 
+                 padding="0px 0 0px 0"
+                 width="200px" />
+        </mj-column>
+
+
+        <mj-column width="50%">
+            <mj-image
+            href="https://www.mlmigration.com/vi/ho-chieu-viet-nam-tang-2-bac-trong-xep-hang-quoc-te/" 
+            src="https://dangduy03.github.io/image-limited/So_2025/d2.png"
+            alt="Lịch nghỉ Tết"
+            padding="0"
+            />
+        </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="0px 0 0 0">
+        <mj-column width="50%" >
+            <mj-image
+            href="https://www.mlmigration.com/vi/tat-tan-tat-ve-visa-600/" 
+            src="https://dangduy03.github.io/image-limited/So_2025/d3.png"
+            alt="CƠ HỘI DU HỌC, DU LỊCH VÀ ĐỊNH CƯ"
+            padding="0"
+            />
+        </mj-column>
+
+        <mj-column padding="70px 10px">
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px"  color="#2e2b2c" align="justify"   padding="0 0 15px 0" line-height="1.5">
+                Kiểm tra ngay các bước để dễ dàng nhận được
+                <span style="color: #AB0618; font-weight: bold;">visa 600 thành công!</span>
+            </mj-text>
+            <mj-image 
+                href="https://www.mlmigration.com/vi/tat-tan-tat-ve-visa-600/" 
+                 src="https://dangduy03.github.io/image-limited/So_CT6/6.gif" 
+                 alt="XEM CHI TIẾT" 
+                 padding="0px 0 0px 0"
+                 width="200px" />
+        </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="0px 0 0px 0">
+
+        <mj-column padding="50px 10px">
+        <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px"  color="#2e2b2c" align="justify"   padding="0 0 15px 0" line-height="1.5">
+            Đến ngay
+            <span style="color: #AB0618; font-weight: bold;">La Trobe</span> để hiểu thêm về
+            <span style="color: #AB0618; font-weight: bold;">AI </span>- xu hướng đang dẫn đầu thế giới, mở ra
+            <span style="color: #AB0618; font-weight: bold;">cơ hội nghề nghiệp</span> ít ai cạnh tranh. 
+        </mj-text>
+        </mj-text>
+        <mj-image 
+                href="https://360connect.edu.vn/dai-hoc-la-trobe-dai-hoc-dau-tien-tich-hop-ai/" 
+                 src="https://dangduy03.github.io/image-limited/So_CT6/7.gif" 
+                 alt="XEM CHI TIẾT" 
+                 padding="0px 0 0px 0" 
+                 width="200px" />
+        </mj-column>
+ 
+
+        <mj-column width="50%">
+            <mj-image
+            href="https://360connect.edu.vn/dai-hoc-la-trobe-dai-hoc-dau-tien-tich-hop-ai/" 
+            src="https://dangduy03.github.io/image-limited/So_2025/d4.png"
+            alt="Lịch nghỉ Tết"
+            padding="0"
+            />
+        </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="0px 0 30px 0">
+    <mj-column width="50%" >
+        <mj-image
+        href="https://360connect.edu.vn/centre-nghien-cuu-nam-cuc-lon-nhat-uc-tai-utas/" 
+        src="https://dangduy03.github.io/image-limited/So_2025/d5.png"
+        alt="CƠ HỘI DU HỌC, DU LỊCH VÀ ĐỊNH CƯ"
+        padding="0"
+        />
+    </mj-column>
+
+    <mj-column  padding="70px 10px">
+        <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" color="#2e2b2c" align="justify"  padding="0px 0 5px 0" line-height="1.5">
+        <span style="color: #AB0618; font-weight: bold;">Cập nhật</span> sớm để lên kế hoạch 
+        <span style="color: #AB0618; font-weight: bold;">du học</span> &
+        <span style="color: #AB0618; font-weight: bold;">cơ hội</span> nghiên cứu tại
+        <span style="color: #AB0618; font-weight: bold;">CENTRE</span>  lớn nhất này tại
+        <span style="color: #AB0618; font-weight: bold;">ÚC!</span>
+        </mj-text>
+            <mj-image 
+                href="https://360connect.edu.vn/centre-nghien-cuu-nam-cuc-lon-nhat-uc-tai-utas/" 
+                 src="https://dangduy03.github.io/image-limited/So_CT6/6.gif" 
+                 alt="KHÁM PHÁ NGAY" 
+                 padding="0px 0 0px 0"
+                 width="200px" 
+            />
+    </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#AB0618" padding="20px 0">
+        <mj-column>
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="25px" color="#ffffff" font-weight="bold" align="center" padding="10px 0">
+                FOLLOW US
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="20px" text-align="center" >
+        <mj-column>
+            <mj-social font-family="Montserrat, Arial, sans-serif" font-size="15px" icon-size="50px" align="center" padding="10px 10px">
+                <mj-social-element
+                    name="Zalo"
+                    href="https://zalo.me/0912399360"
+                    src="https://dangduy03.github.io/image-limited/So_thang_4/zalo.png"
+                    alt="Zalo"
+                    padding="0 25px"
+                ></mj-social-element>
+                <mj-social-element
+                    name="Facebook"
+                    href="https://www.facebook.com/c360connect"
+                    src="https://dangduy03.github.io/image-limited/So_thang_4/facebook.png"
+                    alt="Facebook"
+                    padding="0 25px"
+                ></mj-social-element>
+                <mj-social-element
+                    name="YouTube"
+                    href="https://www.youtube.com/@360connect-chapcanhuocmodu3"
+                    src="https://dangduy03.github.io/image-limited/So_thang_4/youtube.png"
+                    alt="YouTube"
+                    padding="0 25px"
+                ></mj-social-element>
+                <mj-social-element
+                    name="Instagram"
+                    href="https://www.instagram.com/duhoc_360connect/"
+                    src="https://dangduy03.github.io/image-limited/So_thang_4/instagram.png"
+                    alt="Instagram"
+                    padding="0 25px"
+                ></mj-social-element>
+                <mj-social-element
+                    name="TikTok"
+                    href="https://www.tiktok.com/@360connectduhoc?is_from_webapp=1&sender_device=pc"
+                    src="https://dangduy03.github.io/image-limited/So_thang_4/T4.jpg"
+                    alt="Instagram"
+                    padding="0 25px"
+                ></mj-social-element>
+            </mj-social>
+        </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#fff" padding="10px 0 0px 0">
+        <mj-column>
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="23px" color="#AB0618" font-weight="bold" padding-bottom="20px" align="center">
+            360 CONNECT - CHẮP CÁNH ƯỚC MƠ DU HỌC
+            </mj-text>
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" color="#6C3A09" line-height="1.5" padding="0px 0px 0px 25px">
+                <strong font-weight="bold">Địa chỉ:</strong> 902, tầng 9, 20 Thụy Khuê, Phường Tây Hồ, Hà Nội
+            </mj-text>
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" color="#6C3A09" line-height="1.5" padding="0px 0px 0px 25px">
+            <strong font-weight="bold">Hotline:</strong>
+            <a href="https://zalo.me/0912399360" style="color: #6C3A09; text-decoration:none">0912 399 360</a>
+            </mj-text>
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="15px" color="#6C3A09" line-height="1.5" padding="0px 0px 0px 25px">
+            <strong font-weight="bold" >Email: </strong>
+            <a href="mailto:info@360connect.edu.vn" style="color: #6C3A09; text-decoration:none">info@360connect.edu.vn</a>
+            </mj-text>
+
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="17px" font-weight="bold" padding-top="5px" color="#6C3A09">
+            Văn phòng đại diện:
+            </mj-text>
+
+            <mj-table font-family="Montserrat, Arial, sans-serif" font-size="15px" padding="0px 0px 0px 25px">
+            <tr>
+                <td style="vertical-align: top; width: 20px; padding: 0 0px 0px 0; color: #6C3A09;">•</td>
+                <td style="vertical-align: top; padding-bottom: 0px; color: #6C3A09;">
+                <strong>TP Hồ Chí Minh:</strong> Số 164/7 Đường số 1, Phường Tân Mỹ, TP Hồ Chí Minh, Việt Nam
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align: top; width: 10px; padding: 0 0px 0px 0; color: #6C3A09; " >•</td>
+                <td style="vertical-align: top; padding-bottom: 0px; color: #6C3A09;">
+                <strong>Australia:</strong> Suite 2, Level 1, 9-11 Grosvenor Street, Neutral Bay, NSW, Australia, New South Wales
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align: top; width: 20px; padding: 0 0px 0px 0; color: #6C3A09;">•</td>
+                <td style="vertical-align: top; padding-bottom: 0px; color: #6C3A09;">
+                <strong>USA:</strong> 671 Safeharbour Dr, Ocoee FL 34761
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align: top; width: 20px; padding: 0 0px 0px 0; color: #6C3A09;">•</td>
+                <td style="vertical-align: top; padding-bottom: 0px; color: #6C3A09;">
+                <strong>Canada:</strong> 5-4150 Fairview st, Burlington City, Ontario, Canada
+                </td>
+            </tr>
+            </mj-table>
+
+            <mj-text font-family="Montserrat, Arial, sans-serif" font-size="20px" font-weight="bold" padding-top="10px" color="#6C3A09" align="center">
+            LIÊN HỆ VỚI CHÚNG TÔI ĐỂ ĐƯỢC TƯ VẤN MIỄN PHÍ </mj-text>
+
+        </mj-column>
+    </mj-section>
+
+
+    </mj-wrapper>
+    </mj-body>
+    </mjml>
